@@ -1,2 +1,3 @@
+pubSub\RedisMessageListener.class
 pubSub\PubSub.class
 pubSub\DummyService.class
